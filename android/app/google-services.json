@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "1034357077558",
+    "project_id": "voyage-09",
+    "storage_bucket": "voyage-09.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034357077558:android:901ace490739faad490a97",
+        "android_client_info": {
+          "package_name": "com.dsi.voyage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034357077558-mmfevba3gg04sf15d0mjqs0m6gpbsdhf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIMPGYmidBILdT_CbyyJqAWO5mdYw1kK4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034357077558-mmfevba3gg04sf15d0mjqs0m6gpbsdhf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1034357077558-51oveqqjr6vfl77g3g85pklnm54fiauf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dsi.voyage"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034357077558:android:68d35535ac42f9bf490a97",
+        "android_client_info": {
+          "package_name": "com.example.voyage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034357077558-mmfevba3gg04sf15d0mjqs0m6gpbsdhf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIMPGYmidBILdT_CbyyJqAWO5mdYw1kK4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034357077558-mmfevba3gg04sf15d0mjqs0m6gpbsdhf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1034357077558-51oveqqjr6vfl77g3g85pklnm54fiauf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dsi.voyage"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034357077558:android:43b70f6319b8058f490a97",
+        "android_client_info": {
+          "package_name": "firebase.options"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034357077558-mmfevba3gg04sf15d0mjqs0m6gpbsdhf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIMPGYmidBILdT_CbyyJqAWO5mdYw1kK4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034357077558-mmfevba3gg04sf15d0mjqs0m6gpbsdhf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1034357077558-51oveqqjr6vfl77g3g85pklnm54fiauf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dsi.voyage"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
